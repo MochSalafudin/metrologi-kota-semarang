@@ -4,15 +4,15 @@ Aplikasi Sistem Informasi Layanan Metrologi Legal Kota Semarang berbasis web men
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
-### 👤 **Publik / Pengguna (Pemohon)**
+###  **Publik / Pengguna (Pemohon)**
 - **Katalog Alat UTTP**: Informasi dan pencarian kategori alat (Massa Timbangan, Volume, Panjang & Tekanan, Kadar Air).
 - **Pengajuan Tera / Tera Ulang Online**: Form pendaftaran pengajuan layanan kalibrasi/tera alat.
 - **Tracking Status Pengajuan**: Pemantauan status proses pengajuan secara real-time.
 - **Unduh Sertifikat**: Mengunduh sertifikat tera yang telah diverifikasi dan disetujui.
 
-### 🛠️ **Admin & Petugas**
+###  **Admin & Petugas**
 - **Dashboard Statistik**: Ringkasan data pengajuan bulanan, status pengajuan, serta statistik petugas & sertifikat.
 - **Manajemen Pengajuan**: Verifikasi dokumen & penetapan petugas penanggung jawab.
 - **Penjadwalan Tera**: Pengaturan dan pemantauan jadwal pemeriksaan alat di lapangan/kantor.
@@ -20,7 +20,7 @@ Aplikasi Sistem Informasi Layanan Metrologi Legal Kota Semarang berbasis web men
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - **PHP** (Framework CodeIgniter 3)
 - **Database**: MySQL / MariaDB
@@ -29,7 +29,7 @@ Aplikasi Sistem Informasi Layanan Metrologi Legal Kota Semarang berbasis web men
 
 ---
 
-## 💻 Panduan Instalasi Lokal
+##  Panduan Instalasi Lokal
 
 ### 1. Prerequisites (Persyaratan Sistem)
 - Web Server: **XAMPP** / **Laragon**
@@ -67,7 +67,7 @@ Aplikasi Sistem Informasi Layanan Metrologi Legal Kota Semarang berbasis web men
 
 ---
 
-## 📁 Struktur Direktori Utama
+##  Struktur Direktori Utama
 
 ```
 meterologikotasemarang/
@@ -83,6 +83,6 @@ meterologikotasemarang/
 
 ---
 
-## 📄 Lisensi
+##  Lisensi
 
 Proyek ini dikembangkan untuk Sistem Informasi Metrologi Legal Kota Semarang.
